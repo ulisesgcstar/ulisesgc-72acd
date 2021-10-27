@@ -1,8 +1,8 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Uli GC",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "red",
     "header": {
         "title": "Exto",
         "has_nav": true,
