@@ -14,12 +14,8 @@ sections:
       Redes Sociales.
 
 
-      Las marcas actuales tienen que ser reinventadas para las redes sociales,
-
-      con la responsabilidad y compromiso de construir una comunidad alrededor
-      del valor que ofrece
-
-      la marca.
+      Quiero colaborar con grandes marcas que estén cambiando la vida de sus
+      usuarios.
     actions:
       - label: Let's talk
         url: /contact
