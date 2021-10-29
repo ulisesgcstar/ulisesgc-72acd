@@ -2,7 +2,7 @@
     "title": "Uli GC",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "red",
+    "accent_color": "yellow",
     "header": {
         "title": "Ulises GC",
         "has_nav": true,
