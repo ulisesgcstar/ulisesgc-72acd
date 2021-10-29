@@ -1,5 +1,5 @@
 {
-    "title": "Uli GC",
+    "title": "Ulises GC",
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "yellow",
@@ -45,7 +45,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/UlisesGC_",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
@@ -66,7 +66,7 @@
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/ulisesgc/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true

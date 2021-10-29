@@ -4,10 +4,18 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    title: 'Hola, soy Community Manager'
+    content: >
+      Tengo un extraño gusto por las marcas que influyen
+
+      en la vida de sus consumidores, por eso decidí aprender Marketing Digital,
+      principalmente en
+
+      Redes Sociales.
+
+
+      Quiero colaborar con grandes marcas que estén cambiando la vida de sus
+      usuarios.
     actions:
       - label: Let's talk
         url: /contact
