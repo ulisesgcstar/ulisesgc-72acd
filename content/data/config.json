@@ -4,7 +4,7 @@
     "color_scheme": "light",
     "accent_color": "red",
     "header": {
-        "title": "Exto",
+        "title": "Ulises GC",
         "has_nav": true,
         "nav_links": [
             {
@@ -72,5 +72,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://ulisesgc-72acd.netlify.app"
 }
