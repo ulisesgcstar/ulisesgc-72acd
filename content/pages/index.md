@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Community Manager'
-    content: >+
+    content: >
       Mi curiosidad siempre me lleva fuera de la zona de confort, estoy en
       constante
 
@@ -16,6 +16,7 @@ sections:
       principalmente en
 
       Redes Sociales.
+
 
       Muy pocas marcas han alcanzado un engagement con sus seguidores, considero
       que
@@ -32,8 +33,6 @@ sections:
       del valor que ofrece
 
       la marca.
-
-
     actions:
       - label: Let's talk
         url: /contact
