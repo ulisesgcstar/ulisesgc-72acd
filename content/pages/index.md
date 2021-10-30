@@ -31,7 +31,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Blog
-    posts_number: 3
+    posts_number: 1
     col_number: three
     actions:
       - label: Ver Blog
