@@ -37,6 +37,7 @@ sections:
       - label: View Blog
         url: blog
         style: button
+    subtitle: Con
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
