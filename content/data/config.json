@@ -2,7 +2,7 @@
     "title": "Ulises GC",
     "path_prefix": "/",
     "color_scheme": "#0e1326",
-    "accent_color": "yellow",
+    "accent_color": "dark",
     "header": {
         "title": "Ulises GC",
         "has_nav": true,
