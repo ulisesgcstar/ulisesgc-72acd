@@ -31,7 +31,6 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Blog
-    subtitle: B
     posts_number: 3
     col_number: three
     actions:
