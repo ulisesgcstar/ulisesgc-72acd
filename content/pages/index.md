@@ -36,7 +36,7 @@ sections:
     actions:
       - label: Ver Blog
         url: blog
-        style: icon
+        style: button
     subtitle: 'Trabaja para aprender, jamas para ser esclavo.'
 seo:
   title: Stackbit Exto Theme
