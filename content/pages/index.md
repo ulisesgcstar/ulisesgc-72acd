@@ -32,7 +32,7 @@ sections:
     type: section_posts
     title: Blog
     posts_number: 1
-    col_number: three
+    col_number: two
     actions:
       - label: Ver Blog
         url: blog
